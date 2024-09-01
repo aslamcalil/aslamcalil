@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @aslamchalil
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning computer science and engineering
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning html,javascript and css for web developing
+-  I’m currently a computer science student
+- 💞️ I’m looking to collaborate on web development and java projects
 - 📫 How to reach me muhammedaslamchalilshajeer@gmail.com
 - ⚡ Fun fact: ...
 
